@@ -26,15 +26,18 @@ a{
     color: #003366;
 }
 
+
 .informacoes-card{
     width: 720px;
-    height: 285px;
+    /* height: 285px;  */
+    height: 100%;
     background-color: white;
     padding: 50px 40px 65px 40px;
     border-radius: 10px;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; 
     margin-top: 100px;
+   
 } 
 
   
